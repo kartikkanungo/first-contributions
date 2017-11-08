@@ -305,7 +305,7 @@
 - [Taha Khan](https://github.com/tahankhan)
 - [Ethan Chu](https://github.com/ethan-chu)
 - [Alex Tan](https://github.com/atan009)
-- [Colin Beard](https://github.com/NegaBlitz)
+- [Colin Beard](https://github.com/NegaBlitz3)
 - [Ling Li](https://github.com/LingLi-su)
 - [Wesley Liang](https://github.com/wesliang)
 - [Robert Helmick](https://github.com/roberthelmick08)
@@ -724,3 +724,4 @@
 - [Matic Zavadlal](https://github.com/maticzav)
 - [Nate Denys](https://github.com/ndenys650)
 - [Dmitry Kudriavtsev](https://github.com/dkudriavtsev)
+- [Kartik Kanungo](https://github.com/kartikkanungo)
